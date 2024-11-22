@@ -54,6 +54,7 @@ https://jsonplaceholder.typicode.com/posts/1.
     "completed": "false"
 }
 encore methode GET:
+https://jsonplaceholder.typicode.com/posts/1/comments
 [
     {
         "postId": 1,
@@ -65,6 +66,8 @@ encore methode GET:
 
 ]
 encore un autre GET:
+
+https://jsonplaceholder.typicode.com/albums/2/photos
 [
     {
         "albumId": 2,
